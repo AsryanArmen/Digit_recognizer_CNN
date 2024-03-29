@@ -34,6 +34,7 @@ Each pixel column in the training set has a name like pixelx, where x is an inte
 ------------------------
 | Run Code              |
 ------------------------
+
 1.  py -m venv venv (if you have windows pc)
     a)  .\venv\Scripts\activate
     b)  py -m pip install --upgrade pip
